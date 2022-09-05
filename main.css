@@ -1,0 +1,64 @@
+#logo {
+    text-align: center;
+    margin-top: 30px;
+}
+
+input {
+    width: 200px;
+}
+
+main > div {
+     margin-left: 5%;
+     margin-right: 5%;
+}
+
+#box1 {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+    margin-left: 5%;
+}
+
+#box1{
+    text-align: center;
+    }
+
+#box1 > a , p{
+    display: block;
+    font-size: 16px;
+}
+
+#box2 {
+    background-color: rgb(126, 229, 218);
+    margin-left: 3px;
+    text-align: center;
+    width: 18%;
+}
+
+#box2 > a {
+    display: block;
+    font-size: small;
+    padding-top: 4px;
+
+}
+
+.main {
+    display: flex;
+    margin-top: 3px;
+}
+
+#box3 {
+    background-color: rgb(126, 229, 218);
+    margin-left: 3px;
+    margin-right: 5%;
+    text-align: center;
+    width: 37%;
+}
+
+#box3 > p {
+    font-size: small;
+    font-weight: bolder;
+}
+
+#box3 > input {
+    margin-bottom: 5px;
+}
